@@ -1,6 +1,5 @@
-
-public class Palindromes {
-	public boolean isPalindrome(String input) {
+//Copyright Ryan Nagle, 2016
+public class Palindromes {(String input) {
 		input = refineString(input);
 		if(input.equalsIgnoreCase(reverse(input))) 
 			return true;
