@@ -1,6 +1,6 @@
 public class Sorting {
 
-	public void sort(String[] testArray) {
+	public static void sort(String[] testArray) {
 		String compared;
 		boolean swapped = true;
 		while (swapped) {
