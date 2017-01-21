@@ -1,6 +1,5 @@
 //Copyright Ryan Nagle, 2016
-null
-nulltFalse;
+import static org.junit.Assert.assertFalse;
 import static org.junit.Assert.assertTrue;
 
 import java.io.BufferedReader;

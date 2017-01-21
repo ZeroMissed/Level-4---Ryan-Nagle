@@ -1,7 +1,4 @@
-<<<<<<< HEAD
 import java.util.ArrayList;
-=======
->>>>>>> origin/master
 import java.util.Arrays;
 import java.util.Collections;
 import java.util.List;
