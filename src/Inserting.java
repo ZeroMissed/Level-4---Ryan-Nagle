@@ -1,4 +1,7 @@
+<<<<<<< HEAD
 import java.util.ArrayList;
+=======
+>>>>>>> origin/master
 import java.util.Arrays;
 import java.util.Collections;
 import java.util.List;
@@ -22,7 +25,6 @@ public class Inserting {
 	}
 
 	public static String[] insertAlphabetically(String[] input, String string) {
-		// TODO Auto-generated method stub
 		ArrayList<String> list = new ArrayList<String>();
 		for(String i: input) {
 			list.add(i);
@@ -35,3 +37,4 @@ public class Inserting {
 	}
 
 }
+
